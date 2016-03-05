@@ -4,5 +4,6 @@
 int  main( void )
 {
 	printf( " ÎÒ½Ğ³ÂÅô " );
+	printf£¨¡°¡±£©£»
 	return 0;
 }
