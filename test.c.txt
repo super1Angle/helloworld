@@ -6,5 +6,6 @@ int  main( void )
 	printf( " 我叫陈鹏 " );
 	printf（“”）；
 
-	return 0;
+	return 0;’
+	在testing2上添加的提交“commit 1”
 }
