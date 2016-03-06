@@ -6,6 +6,8 @@ int  main( void )
 	printf( " 我叫陈鹏 " );
 	printf（“”）；
 
-	return 0;’
-	在testing2上添加的提交“commit 1”
+
+	return 0;
+	在分支testing上添加commit_1;
+	在分支testing上添加commit_2;	
 }
